@@ -41,7 +41,7 @@ Shell        · 环境部署与运维脚本
 React        · 主力前端框架
 Next.js      · 全栈应用、SSR / API Routes
 Vue          · 早期业务系统（Blog / Supervision-platform 等）
-Vite         · 构建工具
+Vite / Webpack / Rspack / Rsbuild · 构建工具
 ```
 
 **AI 与工具链**
