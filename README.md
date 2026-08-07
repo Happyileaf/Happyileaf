@@ -34,7 +34,7 @@ Node.js      · 服务端、工具链与脚本
 Shell        · 环境部署与运维脚本
 ```
 
-**前端框架**
+**前端开发**
 
 ```
 React        · 主力前端框架
@@ -44,6 +44,15 @@ Webpack      · 模块打包
 Vite         · 构建工具
 Rsbuild      · Rust 高性能构建工具
 
+```
+
+**全栈开发**
+
+```
+Next.js       · App Router、API Routes、SSR
+Prisma        · 类型安全 ORM
+PostgreSQL    · 关系型数据库
+Vercel        · 部署平台
 ```
 
 **AI 与工具链**
