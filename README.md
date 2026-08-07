@@ -30,6 +30,7 @@ $ cat ./profile.txt
 ```
 TypeScript   · 主力开发语言，工具与前端项目
 JavaScript   · 生态与业务逻辑
+Node.js      · 服务端、工具链与脚本
 PowerShell   · 自动化脚本与本地工作流
 Shell        · 环境部署与运维脚本
 ```
@@ -40,7 +41,6 @@ Shell        · 环境部署与运维脚本
 React        · 主力前端框架
 Next.js      · 全栈应用、SSR / API Routes
 Vue          · 早期业务系统（Blog / Supervision-platform 等）
-Node.js      · 工具链与服务端
 Vite         · 构建工具
 ```
 
@@ -51,16 +51,6 @@ LLM Workflows · ai-toolkit 多模态模型规则与工作流
 Code Review   · ai-code-review-server 自动化审查
 TypeScript    · 工具核心开发
 PowerShell    · 本地 AI 工具脚本
-```
-
-**环境与工具**
-
-```
-Git          · 版本控制
-GitHub       · 代码托管与协作
-VS Code      · 主力 IDE
-VuePress     · 个人博客
-Docs Site    · bookmark-lite-docs 文档站
 ```
 
 ---
