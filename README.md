@@ -43,7 +43,8 @@ Next.js      · 全栈应用、SSR / API Routes
 Vue          · 早期业务系统（Blog / Supervision-platform 等）
 Webpack      · 模块打包
 Vite         · 构建工具
-Rsbuild      · Rspack 上层构建框架
+Rsbuild      · Rust 高性能构建工具
+
 ```
 
 **AI 与工具链**
