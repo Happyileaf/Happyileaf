@@ -12,12 +12,12 @@ $ cat ./profile.txt
 
 ### 关于
 
-前端工程师，专注于 AI 工作流工程化与开发者工具的构建。JXNU Homyit Studio 前端出身，从 Vue 业务系统起步，目前转向 AI 驱动的前端工具链与代码智能化方向。
+前端工程师，专注于 AI 工作流工程化与开发者工具的构建。JXNU Homyit Studio 前端出身，早期用 Vue 搭业务系统，现以 React / Next.js 为主力，聚焦 AI 驱动的前端工具链与代码智能化方向。
 
 当前关注：
 - 大模型驱动的开发工具与工作流设计
+- React / Next.js 全栈应用与 AI 集成
 - 前端工程化与工具链自动化
-- 代码审查、生成、辅助工具的产品化
 
 开源理念：工具应该顺手，代码应该易读，造轮子是为了跑得更快。
 
@@ -30,18 +30,18 @@ $ cat ./profile.txt
 ```
 TypeScript   · 主力开发语言，工具与前端项目
 JavaScript   · 生态与业务逻辑
-Vue          · 业务系统前端框架
 PowerShell   · 自动化脚本与本地工作流
 Shell        · 环境部署与运维脚本
 ```
 
-**前端与工程**
+**前端框架**
 
 ```
-Vue          · 博客系统、业务后台（Blog_admin / Supervision-platform 等）
+React        · 主力前端框架
+Next.js      · 全栈应用、SSR / API Routes
+Vue          · 早期业务系统（Blog / Supervision-platform 等）
 Node.js      · 工具链与服务端
 Vite         · 构建工具
-Axios        · 请求封装（axios-modular）
 ```
 
 **AI 与工具链**
