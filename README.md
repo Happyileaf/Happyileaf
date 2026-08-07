@@ -41,14 +41,15 @@ Shell        · 环境部署与运维脚本
 React        · 主力前端框架
 Next.js      · 全栈应用、SSR / API Routes
 Vue          · 早期业务系统（Blog / Supervision-platform 等）
-Vite / Webpack / Rspack / Rsbuild · 构建工具
+Webpack      · 模块打包
+Vite         · 构建工具
+Rsbuild      · Rspack 上层构建框架
 ```
 
 **AI 与工具链**
 
 ```
 LLM Workflows · ai-toolkit 多模态模型规则与工作流
-Code Review   · ai-code-review-server 自动化审查
 TypeScript    · 工具核心开发
 PowerShell    · 本地 AI 工具脚本
 ```
