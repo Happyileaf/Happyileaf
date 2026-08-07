@@ -23,7 +23,7 @@ $ cat ./profile.txt
   - Codex  · OpenAI 编码 Agent
   - Claude Code · Anthropic 终端编码助手
   - Trae · 字节跳动 AI IDE
-  - multica.ai · 多模态模型规则与工作流设计
+  - multica · 多模态模型规则与工作流设计
 
 开源理念：工具应该顺手，代码应该易读，造轮子是为了跑得更快。
 
