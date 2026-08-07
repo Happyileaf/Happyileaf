@@ -57,6 +57,23 @@ PowerShell    · 本地 AI 工具脚本
 
 ---
 
+### 项目
+
+```text
+$ ls -la ./projects/
+
+  bookmark-lite            · TypeScript · 轻量书签管理工具 [MIT]
+  bookmark-lite-docs       · 文档站     · bookmark-lite 配套文档
+  ai-toolkit               · PowerShell · 多模态模型规则、技能与工作流
+  ai-code-review-server    · TypeScript · AI 驱动的代码审查服务 [MIT]
+  engineering-tools        · TypeScript · 工程工具合集 [MIT]
+  bmm                      · TypeScript · 个人书签管家（Fork & 贡献）
+  vuepressBlog             · Shell      · VuePress 个人博客
+  Blog_* (admin/server/web)· Vue/JS     · 博客系统三件套
+```
+
+---
+
 ### 活动
 
 <p>
@@ -67,23 +84,6 @@ PowerShell    · 本地 AI 工具脚本
 <p>
   <img src="https://streak-stats.demolab.com?user=Happyileaf&hide_border=true&theme=transparent&dates=8b949e&currStreakLabel=58a6ff&ring=58a6ff&fire=f0883e" height="160" />
 </p>
-
----
-
-### 项目
-
-```text
-$ ls -la ./projects/
-
-→  bookmark-lite            · TypeScript · 轻量书签管理工具 [MIT]
-→  bookmark-lite-docs       · 文档站     · bookmark-lite 配套文档
-→  ai-toolkit               · PowerShell · 多模态模型规则、技能与工作流
-→  ai-code-review-server    · TypeScript · AI 驱动的代码审查服务 [MIT]
-→  engineering-tools        · TypeScript · 工程工具合集 [MIT]
-→  bmm                      · TypeScript · 个人书签管家（Fork & 贡献）
-→  vuepressBlog             · Shell      · VuePress 个人博客
-→  Blog_* (admin/server/web)· Vue/JS     · 博客系统三件套
-```
 
 ---
 
