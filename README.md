@@ -25,7 +25,8 @@ $ cat ./profile.txt
   - Multica
 
 人人都是产品经理：
-  - bookmark-lite  轻量书签管理工具。产品文档->代码->部署，AI Agent is all you need，欢迎体验（https://bookmark-lite.contextlab.top/）
+  - bookmark-lite  轻量书签管理工具。
+    - 产品文档->代码->部署，AI Agent is all you need，欢迎体验（https://bookmark-lite.contextlab.top/）
 
 开源理念：工具应该顺手，代码应该易读，造轮子是为了跑得更快。
 
