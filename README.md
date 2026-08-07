@@ -89,11 +89,6 @@ $ ls -la ./projects/
 ### 活动
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Happyileaf&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent&text_color=8b949e&icon_color=58a6ff&bg_color=00000000" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happyileaf&layout=compact&hide_border=true&theme=transparent&text_color=8b949e&bg_color=00000000" height="160" />
-</p>
-
-<p>
   <img src="https://streak-stats.demolab.com?user=Happyileaf&hide_border=true&theme=transparent&dates=8b949e&currStreakLabel=58a6ff&ring=58a6ff&fire=f0883e" height="160" />
 </p>
 
