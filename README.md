@@ -1,61 +1,61 @@
 ```text
 $ whoami
-happyileaf — software engineer
+happyileaf — 软件工程师
 
 $ cat ./profile.txt
-Building tools, exploring systems, and learning every day.
+造工具，探系统，每日学习。
 ```
 
 ---
 
-### About
+### 关于
 
-Software engineer focused on building reliable systems and elegant developer tools. Interested in the intersection of distributed systems, developer experience, and open-source infrastructure.
+专注于构建可靠的系统与优雅的开发者工具。对分布式系统、开发者体验与开源基础设施的交叉领域抱有兴趣。
 
-Currently exploring:
-- Compiler internals and language design
-- System programming with Rust
-- Building minimal, purposeful developer tools
+当前探索：
+- 编译器内核与语言设计
+- Rust 系统编程
+- 构建极简、有明确目的的开发者工具
 
-Open source philosophy: Write code that is readable, maintainable, and honest. Optimize for clarity first.
-
----
-
-### Stack
-
-**Languages**
-
-```
-Python       · scripting, data, automation
-TypeScript   · web frontends, node tooling
-Rust         · systems programming, performance-critical paths
-Go           · backend services, CLIs
-C            · understanding how things really work
-```
-
-**Tools & Environments**
-
-```
-Linux        · primary environment, daily driver
-Git          · version control, patch management
-Docker       · containerization, reproducible builds
-Neovim       · text editing
-VS Code      · IDE for larger codebases
-Make         · build orchestration
-```
-
-**Cloud & Backend**
-
-```
-PostgreSQL   · relational data
-Redis        · caching, queues
-Nginx        · reverse proxy, static serving
-Docker Compose · local orchestration
-```
+开源理念：写可读、可维护、诚实的代码。优先追求清晰。
 
 ---
 
-### Activity
+### 技术栈
+
+**编程语言**
+
+```
+Python       · 脚本、数据、自动化
+TypeScript   · Web 前端、Node 工具链
+Rust         · 系统编程、性能关键路径
+Go           · 后端服务、命令行工具
+C            · 理解事物的本质
+```
+
+**工具与环境**
+
+```
+Linux        · 主力环境，日常驱动
+Git          · 版本控制、补丁管理
+Docker       · 容器化、可复现构建
+Neovim       · 文本编辑
+VS Code      · 大型代码库 IDE
+Make         · 构建编排
+```
+
+**云与后端**
+
+```
+PostgreSQL   · 关系型数据
+Redis        · 缓存、队列
+Nginx        · 反向代理、静态服务
+Docker Compose · 本地编排
+```
+
+---
+
+### 活动
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Happyileaf&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent&text_color=8b949e&icon_color=58a6ff&bg_color=00000000" height="160" />
@@ -68,16 +68,16 @@ Docker Compose · local orchestration
 
 ---
 
-### Currently
+### 进行中
 
 ```text
 $ ls -la ./working-on/
 
-→  building          — personal knowledge management system
-→  building          — terminal-based productivity toolkit
-→  exploring         — Rust async runtimes, Tokio internals
-→  reading           — Designing Data-Intensive Applications
-→  contributing      — documentation & small fixes to OSS projects
+→  开发中     — 个人知识管理系统
+→  开发中     — 终端生产力工具箱
+→  探索中     — Rust 异步运行时，Tokio 内核
+→  阅读中     — 《数据密集型应用系统设计》
+→  贡献中     — 开源项目文档与小修复
 ```
 
 ---
@@ -86,7 +86,7 @@ $ ls -la ./working-on/
 
 ```
 $ uptime
-still learning, since 2019
+仍在学习，始于 2019
 ```
 
 </div>
