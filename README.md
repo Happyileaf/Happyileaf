@@ -1,6 +1,6 @@
 ```text
 $ whoami
-happyileaf — AI 前端开发工程师
+happyileaf — AI 前端工程师/AI Agent工程师
 
 $ cat ./profile.txt
 拥抱变化，拥抱AI。
