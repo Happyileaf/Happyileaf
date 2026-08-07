@@ -20,8 +20,7 @@ $ cat ./profile.txt
 - 前端工程化与工具链自动化
 
 主力工具：
-  - Codex  · OpenAI 编码 Agent
-  - Claude Code · Anthropic 终端编码助手
+  - Codex/Claude Code  · 编码 Agent
   - Trae · 字节跳动 AI IDE
   - multica · 多模态模型规则与工作流设计
 
