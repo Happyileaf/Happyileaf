@@ -64,7 +64,7 @@ Vercel        · 部署平台
 ```
 LLM Workflows · ai-toolkit 多模态模型规则与工作流
 TypeScript    · 工具核心开发
-PowerShell    · 本地 AI 工具脚本
+Shell         · 本地 AI 工具脚本
 ```
 
 ---
