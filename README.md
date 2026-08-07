@@ -20,9 +20,9 @@ $ cat ./profile.txt
 - 前端工程化与工具链自动化
 
 主力工具：
-  - codex/claude code      · coding Agent
-  - trae                   · 字节跳动 AI IDE
-  - multica                · 多模态模型规则与工作流设计
+  - Codex/Claude Code      · coding Agent
+  - Trae                   · 字节跳动 AI IDE
+  - Multica                · 多模态模型规则与工作流设计
 
 开源理念：工具应该顺手，代码应该易读，造轮子是为了跑得更快。
 
