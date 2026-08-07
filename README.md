@@ -1,56 +1,66 @@
 ```text
 $ whoami
-happyileaf — 软件工程师
+happyileaf — AI 前端开发工程师
 
 $ cat ./profile.txt
-造工具，探系统，每日学习。
+拥抱变化，拥抱AI。
+乐于学习，坚持学习，重视基础。
+永远年轻，永远热泪盈眶。
 ```
 
 ---
 
 ### 关于
 
-专注于构建可靠的系统与优雅的开发者工具。对分布式系统、开发者体验与开源基础设施的交叉领域抱有兴趣。
+前端工程师，专注于 AI 工作流工程化与开发者工具的构建。JXNU Homyit Studio 前端出身，从 Vue 业务系统起步，目前转向 AI 驱动的前端工具链与代码智能化方向。
 
-当前探索：
-- 编译器内核与语言设计
-- Rust 系统编程
-- 构建极简、有明确目的的开发者工具
+当前关注：
+- 大模型驱动的开发工具与工作流设计
+- 前端工程化与工具链自动化
+- 代码审查、生成、辅助工具的产品化
 
-开源理念：写可读、可维护、诚实的代码。优先追求清晰。
+开源理念：工具应该顺手，代码应该易读，造轮子是为了跑得更快。
 
 ---
 
 ### 技术栈
 
-**编程语言**
+**核心语言**
 
 ```
-Python       · 脚本、数据、自动化
-TypeScript   · Web 前端、Node 工具链
-Rust         · 系统编程、性能关键路径
-Go           · 后端服务、命令行工具
-C            · 理解事物的本质
+TypeScript   · 主力开发语言，工具与前端项目
+JavaScript   · 生态与业务逻辑
+Vue          · 业务系统前端框架
+PowerShell   · 自动化脚本与本地工作流
+Shell        · 环境部署与运维脚本
 ```
 
-**工具与环境**
+**前端与工程**
 
 ```
-Linux        · 主力环境，日常驱动
-Git          · 版本控制、补丁管理
-Docker       · 容器化、可复现构建
-Neovim       · 文本编辑
-VS Code      · 大型代码库 IDE
-Make         · 构建编排
+Vue          · 博客系统、业务后台（Blog_admin / Supervision-platform 等）
+Node.js      · 工具链与服务端
+Vite         · 构建工具
+Axios        · 请求封装（axios-modular）
 ```
 
-**云与后端**
+**AI 与工具链**
 
 ```
-PostgreSQL   · 关系型数据
-Redis        · 缓存、队列
-Nginx        · 反向代理、静态服务
-Docker Compose · 本地编排
+LLM Workflows · ai-toolkit 多模态模型规则与工作流
+Code Review   · ai-code-review-server 自动化审查
+TypeScript    · 工具核心开发
+PowerShell    · 本地 AI 工具脚本
+```
+
+**环境与工具**
+
+```
+Git          · 版本控制
+GitHub       · 代码托管与协作
+VS Code      · 主力 IDE
+VuePress     · 个人博客
+Docs Site    · bookmark-lite-docs 文档站
 ```
 
 ---
@@ -68,16 +78,19 @@ Docker Compose · 本地编排
 
 ---
 
-### 进行中
+### 项目
 
 ```text
-$ ls -la ./working-on/
+$ ls -la ./projects/
 
-→  开发中     — 个人知识管理系统
-→  开发中     — 终端生产力工具箱
-→  探索中     — Rust 异步运行时，Tokio 内核
-→  阅读中     — 《数据密集型应用系统设计》
-→  贡献中     — 开源项目文档与小修复
+→  bookmark-lite            · TypeScript · 轻量书签管理工具 [MIT]
+→  bookmark-lite-docs       · 文档站     · bookmark-lite 配套文档
+→  ai-toolkit               · PowerShell · 多模态模型规则、技能与工作流
+→  ai-code-review-server    · TypeScript · AI 驱动的代码审查服务 [MIT]
+→  engineering-tools        · TypeScript · 工程工具合集 [MIT]
+→  bmm                      · TypeScript · 个人书签管家（Fork & 贡献）
+→  vuepressBlog             · Shell      · VuePress 个人博客
+→  Blog_* (admin/server/web)· Vue/JS     · 博客系统三件套
 ```
 
 ---
@@ -86,7 +99,7 @@ $ ls -la ./working-on/
 
 ```
 $ uptime
-仍在学习，始于 2019
+前端路上，持续探索 AI 工具链，始于 2019
 ```
 
 </div>
