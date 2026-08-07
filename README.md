@@ -24,6 +24,9 @@ $ cat ./profile.txt
   - Trae
   - Multica
 
+人人都是产品经理：
+  - bookmark-lite  轻量书签管理工具。从产品文档到代码，AI Agent is all you need。
+
 开源理念：工具应该顺手，代码应该易读，造轮子是为了跑得更快。
 
 ---
